@@ -20,7 +20,7 @@ cc3737109ffd144557aa52cea7e3b4e6fd357099  获取激活码.txt
 2885dbd8298338a0167911aeef3277dc2c20f323  ddraw.ini
 6d2f36325cce80ba1292e02833fa2c4def60f321  检查新版本.exe
 54f20fa2709456b30398c649a4e72db5cdecdda4  ipxconfig.exe
-687396928098360c8464c54977e5b814bb03f8da  语言切换工具.exe
+eeb9dcccdb81290ba4446163dc5b54e7a6a4755a  语言切换工具.exe
 ceb6cce18fcb71cd7c542b0cbf3127cd440547d9  安装说明.txt
 a1147f5568641719ffacb0c84a7d1fbf9329ba53  Shaders/xbrz/xbrz-freescale-multipass.glsl
 13c831f37d7f0dfac43cd6e1a5da4f81306f3c0b  Shaders/xbrz/xbrz-freescale-multipass.glsl.pass1
