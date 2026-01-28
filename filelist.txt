@@ -18,7 +18,7 @@ bdc917795accb435c751b62cc0eb012121114932  README.md
 7bffbd5d153afba9f12f61b09dc8bae33ec15f89  cnc-ddraw config.exe
 cc3737109ffd144557aa52cea7e3b4e6fd357099  获取激活码.txt
 2885dbd8298338a0167911aeef3277dc2c20f323  ddraw.ini
-1daf31c5e9b5d1909fe6c3000767b88284537f99  检查新版本.exe
+f18b8ad80eec28d3185c011ecc9f4251a513af86  检查新版本.exe
 54f20fa2709456b30398c649a4e72db5cdecdda4  ipxconfig.exe
 d4fb4a19f561c6ee325788bac041e912483ff00b  语言切换工具.exe
 ceb6cce18fcb71cd7c542b0cbf3127cd440547d9  安装说明.txt
