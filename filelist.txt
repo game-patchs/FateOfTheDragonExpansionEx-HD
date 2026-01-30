@@ -1,7 +1,7 @@
 
-2af5a26cb68f4385d9a7d22f4c40214f6252c6ac  adsanguo2.hook.dll
+ccc5e197f5f2af2109d27549cb3204eeae350a99  adsanguo2.hook.dll
 1ff5a2e3c379ff535c8a656c4f7d0b73efc0a75e  winmm.dll
-2af5a26cb68f4385d9a7d22f4c40214f6252c6ac  dragonthrone.hook.dll
+ccc5e197f5f2af2109d27549cb3204eeae350a99  dragonthrone.hook.dll
 72ac381890f030c4e1230a75ed9b064cec525e4b  imgs/4.jpg
 09d597216aa31f36486e2be3f7348dff83b03217  imgs/2.jpg
 6b519a440b2164ab03dbe5da005ebe93319c4320  imgs/3.jpg
@@ -11,10 +11,10 @@ ba03272e6569bb2b031d726eda850e66cbc436d3  make_release.sh
 4d3765df12525ca102d7b639d7ff7af3c6a88936  SDL2_mixer.dll
 b6958eebe7fed77419b350af407658f073e16f54  wsock32.dll
 e052789ebad7dc8d6f8505a9295b0576babd125e  vcredist_x86.exe
-2af5a26cb68f4385d9a7d22f4c40214f6252c6ac  adsanguoHD.hook.dll
+ccc5e197f5f2af2109d27549cb3204eeae350a99  adsanguoHD.hook.dll
 fa4a92ad74403d613780b80bff2904e2808aa3b1  dpwsockx.dll
 bdc917795accb435c751b62cc0eb012121114932  README.md
-900d242648193484e85b8e2a1c27a8b9432a7230  加强版说明.txt
+ec230f9e842db3f19fefa88dd36696212cea3d64  加强版说明.txt
 7bffbd5d153afba9f12f61b09dc8bae33ec15f89  cnc-ddraw config.exe
 cc3737109ffd144557aa52cea7e3b4e6fd357099  获取激活码.txt
 2885dbd8298338a0167911aeef3277dc2c20f323  ddraw.ini
@@ -39,7 +39,7 @@ c4803c409321a258fa996af2840c549213b67ef2  Shaders/interpolation/lanczos2-sharp.g
 11713cc00aa65766a1e00eecf818ae3b1cdf084d  Shaders/interpolation/bilinear.glsl
 5743d07bebacfa3bbfdd883ecb1f80c9cf3b96d9  SDL2.dll
 30dd98d0f06f44813af1640c9c8b2cc98115a2a3  ddraw.dll
-2af5a26cb68f4385d9a7d22f4c40214f6252c6ac  adsanguo.hook.dll
+ccc5e197f5f2af2109d27549cb3204eeae350a99  adsanguo.hook.dll
 9dee8057f35c1fd5af792870bef2c3db209ffc1a  setup.cmd
 68d2e05c986530a29e722f16b164c0cfab056692  ipxwrapper.dll
 6f3bab7a6694b0a53fbcdcafb8aa65ea3219ec2b  RegSetup.exe
